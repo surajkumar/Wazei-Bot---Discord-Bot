@@ -1,6 +1,7 @@
 # Wazei-Bot---Discord-Bot
 
-![Logo](https://i.imgur.com/gtGZn2g.png =100x100)
+![Logo]<img src="https://i.imgur.com/gtGZn2g.png" width="400" height="400">
+
 
 ## Introduction
 "Wazei Bot" is a Discord bot created for a "Wazei's Valorant Discord Server".
