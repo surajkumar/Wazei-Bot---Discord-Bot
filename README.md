@@ -1,6 +1,6 @@
 # Wazei-Bot---Discord-Bot
 
-<img src="https://i.imgur.com/gtGZn2g.png" width="200" height="auto">
+<img src="https://i.imgur.com/gtGZn2g.png" width="150" height="auto">
 
 
 ## Introduction
